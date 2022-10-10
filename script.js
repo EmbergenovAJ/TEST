@@ -10,3 +10,5 @@ function info ( str ) {
     console.log(ltr, num, smb);
 }
 info(string);
+
+console.log('hello')
